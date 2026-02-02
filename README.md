@@ -15,9 +15,15 @@ This was interesting. I thought about Professor Berns' thoughts of AI usage, and
 # How to Use
 <hr>
 1) Download the python file to somewhere on your computer
+
 2) Using *CMD* or an *IDE* (such as VSCode), run the file and follow the directions in the terminal!
+
 	1) If using CMD
+    
 		1) Copy the File Path
-		2) Go into terminal and type 'cd {file path}'
-		3) Then type 'python taskManagementMenu.py'
-3) Follow the directions displayed in the console and enjoy!
+     
+		3) Go into terminal and type 'cd {file path}'
+     
+		5) Then type 'python taskManagementMenu.py'
+     
+4) Follow the directions displayed in the console and enjoy!
